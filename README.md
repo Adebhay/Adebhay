@@ -2,8 +2,14 @@
 - 👀 I’m a Cybersecurity professional
 - 🌱 I’m currently learning Network Security Enginnering to get my CCNA
 - 💞️ I’m looking to collaborate on Network related projects
-- 📫 You can reach me at adebolaayobami1@gmail.com
-  Linkedin at [https://www.linkedin.com/in/mogbekeloluwa-sikiru-a14536122
+- 📫 You can reach me on:
+
+  **Gmail**: adebolaayobami1@gmail.com
+  
+  **Linkedin**: [mogbekeloluwa-sikiru](https://www.linkedin.com/in/mogbekeloluwa-sikiru)
+
+  **Medium**: [@Adebhay](https://medium.com/@Adebhay)
+  
 - 😄 Pronouns: ... She
 - ⚡ Fun fact: ... Do you best always.
 
